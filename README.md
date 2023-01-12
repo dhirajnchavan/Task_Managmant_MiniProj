@@ -1,2 +1,2 @@
-# Task_Managment_Web_v.2
+# Task_Managment DC
 Created a task Managment application using HTML , CSS and JS. I named it Tasky.
